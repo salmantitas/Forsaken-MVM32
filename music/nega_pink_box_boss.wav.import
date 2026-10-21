@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ynm8rf4j7yx0"
-path="res://.godot/imported/nega_pink_box_boss.wav-0e8aa327729848760b5d657ee31b8b69.sample"
+path="res://.godot/imported/nega_pink_box_boss.wav-5e4dd7f59e23a32cfb764d03f5e7f9e1.sample"
 
 [deps]
 
-source_file="res://bosses/ch_06_boss_battles/audio/nega_pink_box_boss.wav"
-dest_files=["res://.godot/imported/nega_pink_box_boss.wav-0e8aa327729848760b5d657ee31b8b69.sample"]
+source_file="res://music/nega_pink_box_boss.wav"
+dest_files=["res://.godot/imported/nega_pink_box_boss.wav-5e4dd7f59e23a32cfb764d03f5e7f9e1.sample"]
 
 [params]
 
